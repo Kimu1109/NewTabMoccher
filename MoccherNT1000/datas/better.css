@@ -1,0 +1,32 @@
+        .hashtag {
+            font-size: 10px;
+            color: rgb(0, 174, 255);
+        }
+
+        .yourmsg {
+            display:inline-block;
+            border-radius: 10px;
+            overflow-wrap: normal;
+            font-size: 20px;
+            padding:15px;
+        }
+        .PrivateColor {
+            color:#F7FFF7;
+            background-color:#2F3061;    
+        }
+        .PublicColor{
+            color:#343434;
+            background-color:#87d0f1
+        }
+        .SpecialColor{
+            color:#343434;
+            background-color:#FFE66D
+        }
+        .yourfont {
+            font-size: 10px;
+            color: black;
+        }
+        .timefontyou {
+            font-size: 7px;
+            color: gray;
+        }
